@@ -1,0 +1,10 @@
+name=input("Enter your Name:")
+print("Hi" + name)
+college=input("Enter your clz name:")
+print("your clz name is" + college)
+city=input("Enter your city name:")
+print("your city is" + city)
+
+print(type(name))
+print(type(college))
+print(type(city))
